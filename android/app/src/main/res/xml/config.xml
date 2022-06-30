@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <access origin="*" />
-  <preference name="FadeSplashScreenDuration" value="300" />
-  <preference name="SplashScreenDelay" value="10000" />
-  <preference name="AutoHideSplashScreen" value="false" />
-  <preference name="FadeSplashScreen" value="true" />
-  <preference name="ShowSplashScreen" value="true" />
+  
+  
 </widget>
