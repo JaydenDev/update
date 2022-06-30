@@ -5,13 +5,15 @@
     "npmClient": "npm",
     "webDir": "build",
     "cordova": {},
+  "plugins": {
     "SplashScreen": {
       "launchShowDuration": 3000,
       "launchAutoHide": false,
       "androidScaleType": "CENTER_INSIDE",
       "splashFullScreen": false,
       "splashImmersive": false,
-      "backgroundColor": "#1C3461",
+      "backgroundColor": "242424",
       "androidSplashResourceName": "splash"
     }
+  }
   }
