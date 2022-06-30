@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Windowz Update</string>
-    <string name="title_activity_main">Windowz Update</string>
-    <string name="package_name">io.jdev08.windowzupdate</string>
-    <string name="custom_url_scheme">io.jdev08.windowzupdate</string>
-</resources>

@@ -1,7 +1,0 @@
-{
-    "name": "windowzupdate",
-    "integrations": {
-      "capacitor": {}
-    },
-    "type": "react"
-  }
