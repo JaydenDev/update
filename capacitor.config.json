@@ -1,0 +1,8 @@
+{
+    "appId": "io.jdev08.windowzupdate",
+    "appName": "Windowz Update",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
